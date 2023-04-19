@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyorihLee&fontSize=60&fontColor=ffffff)
+
+
 <!--
 **hyorish03/hyorish03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
