@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyorinLee&fontAlign=40&fontSize=60&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyorinLee&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
 
 <!--
