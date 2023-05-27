@@ -13,4 +13,7 @@
 <li><strong><a href = "https://github.com/Hipspot/hipspot-web">힙스팟</a></strong> - 내가 가고싶은 카페를 찾아주는 서비스 </li></div>
 
 <br/><br/>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyorish03&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+<div align="right">
+ [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhyorish03&count_bg=%238372EE&title_bg=%235BA2B4&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
