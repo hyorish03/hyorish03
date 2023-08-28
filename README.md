@@ -14,8 +14,7 @@
  <br/>
 
   <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2015%20mins-blue)
-
+[![wakatime](https://wakatime.com/badge/user/ca62a3e8-b0db-454c-b99c-bf39ed6dcb3c.svg)](https://wakatime.com/@ca62a3e8-b0db-454c-b99c-bf39ed6dcb3c) <br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyorish03&layout=compact)](https://wakatime.com/@hyorish03)
 [![Hyorish03's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyorish03)](https://github.com/anuraghazra/github-readme-stats)
 
