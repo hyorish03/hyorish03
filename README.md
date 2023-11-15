@@ -14,10 +14,15 @@
 <li><strong><a href = "https://github.com/wldnjs7064/react-firebase-chat-app">취뽀스테이션</a></strong> - 취준생들 간의 소통을 도모하는 서비스 </li>
  <br/>
 
+### :mailbox_with_mail: Contacts
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyko.tistory.com/)](https://velog.io/@hyorish03/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koc2827@gmail.com)](mailto:hyorish2001@gmail.com)
+
   <!--START_SECTION:waka-->
-[![wakatime](https://wakatime.com/badge/user/ca62a3e8-b0db-454c-b99c-bf39ed6dcb3c.svg)](https://wakatime.com/@ca62a3e8-b0db-454c-b99c-bf39ed6dcb3c) <br/>
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyorish03&layout=compact)](https://wakatime.com/@hyorish03)
 [![Hyorish03's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyorish03)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![wakatime](https://wakatime.com/badge/user/ca62a3e8-b0db-454c-b99c-bf39ed6dcb3c.svg)](https://wakatime.com/@ca62a3e8-b0db-454c-b99c-bf39ed6dcb3c) <br/>
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-66-blue)
 </div>
