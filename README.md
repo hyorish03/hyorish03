@@ -16,7 +16,10 @@
 
 ### :mailbox_with_mail: Contacts
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyko.tistory.com/)](https://velog.io/@hyorish03/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:koc2827@gmail.com)](mailto:hyorish2001@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyorish2001@gmail.com)](mailto:hyorish2001@gmail.com)
+[![](https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyorinleee/b16780530ccd42a1a1b83d82f830d4b3)](https://www.notion.so/hyorinleee/b16780530ccd42a1a1b83d82f830d4b3)
+
+
 
   <!--START_SECTION:waka-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hyorish03&layout=compact)](https://wakatime.com/@hyorish03)
