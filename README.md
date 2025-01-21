@@ -18,7 +18,7 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://kyko.tistory.com/)](https://hyorish03.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyorish2001@gmail.com)](mailto:hyorish2001@gmail.com)
 
-[![](https://img.shields.io/badge/포트폴리오수정중-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyorinleee/b16780530ccd42a1a1b83d82f830d4b3)](https://www.notion.so/hyorinleee/b16780530ccd42a1a1b83d82f830d4b3)
+[![](https://img.shields.io/badge/포트폴리오수정중-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/hyorinleee/b16780530ccd42a1a1b83d82f830d4b3)]()
 
 
 
