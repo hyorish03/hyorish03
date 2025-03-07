@@ -1,30 +1,24 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=230&section=header&text=HyorinLee&fontAlign=70&fontAlignY=40&fontSize=60&fontColor=ffffff)
 
-
-<div>
-  <div align="left">
 <h3>안녕하세요, 프론트엔드 개발자 이효린입니다.</h3>
-    <div>
-      <a href="mailto:hyorish2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyorish2001@gmail.com)"/></a>
+Google Analytics에서 사용자 이벤트 데이터를 분석하여 유저 행동 패턴을 파악하고, 이를 기반으로 서비스의 주요 기능을 개선한 경험이 있습니다. <br/>
+재사용 가능한 컴포넌트를 설계하고, 유지보수성 높은 코드를 구현합니다 <br/>
+ <br/>
+  <br/>
+
+
+<h2>Contacts</h2>
+  <div>
      <a href="https://hyorish03.tistory.com/">
        <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" alt="Tech Blog Badge"/>
      </a>    
+    <a href="mailto:hyorish2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyorish2001@gmail.com)"/></a>
     </div>
     <br />
     <div>
-일정 관리 앱을 사용하면서 <b>완료된 일정이 자동으로 최하단으로 이동하는 기능</b>이 오히려 불편하게 느껴졌고, 결국 사용을 중단한 경험이 있습니다. <br/>
-이 과정에서 <b>기능 구현뿐만 아니라, 직관적이고 편리한 사용자 경험이 중요하다는 것을 깨달았고</b>, 이를 중심으로 개발하고 있습니다.    </div>
-  </div>
-</div>
-
-
-
-
 
 
 
  <br/>
- <br/><br/>
 
 <div align="start">
 <h2>Tech Stack</h2>
