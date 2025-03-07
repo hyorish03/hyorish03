@@ -6,15 +6,6 @@ Google Analytics에서 사용자 이벤트 데이터를 분석하여 유저 행�
   <br/>
 
 
-<h2>Contacts</h2>
-  <div>
-     <a href="https://hyorish03.tistory.com/">
-       <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" alt="Tech Blog Badge"/>
-     </a>    
-    <a href="mailto:hyorish2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyorish2001@gmail.com)"/></a>
-    </div>
-    <br />
-    <div>
 
 
 
@@ -70,7 +61,18 @@ Google Analytics에서 사용자 이벤트 데이터를 분석하여 유저 행�
 
 </div>
 
+
+
 <h2>Contacts</h2>
+  <div>
+     <a href="https://hyorish03.tistory.com/">
+       <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github" alt="Tech Blog Badge"/>
+     </a>    
+    <a href="mailto:hyorish2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hyorish2001@gmail.com)"/></a>
+    </div>
+    <br />
+    <div>
+    
 <div align='center'>
 
 <table>
