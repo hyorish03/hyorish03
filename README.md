@@ -23,11 +23,9 @@
 
 
 <h2>프로젝트</h2>
-<strong><a href = "https://github.com/Nolmung/Nolmung-client">놀멍</a></strong> - 반려견 동반 시설 공유 서비스 <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/>  <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> 
- <br/>
-<strong><a href = "https://github.com/TeamFighting/moyeota-web">모여타</a></strong> - 택시팟 매칭서비스 <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/>  <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/>
- <br/>
-<strong><a href = "https://github.com/One-Hunnit/Fillbom-Front">필봄</a></strong> - 치매환자 관리 서비스 <img src="https://img.shields.io/badge/RN-61DAFB?style=flat"/>  <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/>
+<li><strong><a href = "https://github.com/Nolmung/Nolmung-client">놀멍</a></strong> - 반려견 동반 시설 공유 서비스 <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/>  <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/> </li>
+<li><strong><a href = "https://github.com/TeamFighting/moyeota-web">모여타</a></strong> - 택시팟 매칭서비스 <img src="https://img.shields.io/badge/React-61DAFB?style=flat"/>  <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/></li>
+<li><strong><a href = "https://github.com/One-Hunnit/Fillbom-Front">필봄</a></strong> - 치매환자 관리 서비스 <img src="https://img.shields.io/badge/RN-61DAFB?style=flat"/>  <img src="https://img.shields.io/badge/TS-3178C6?style=flat"/></li>
  <br/>
 </div>
  <br/>
@@ -35,18 +33,14 @@
 
 <h2>수상</h2>
 <li>LG U+ 유레카 최종융합 경진대회, 우수상 (2024.12.24) |  <a href = "https://github.com/Nolmung/Nolmung-client">놀멍</a> </li>
- <br/>
-<li>2022 클라우드 아이디어 공모전, 장려상 (2022.12.26) </li> <br/>
+<li>2022 클라우드 아이디어 공모전, 장려상 (2022.12.26) </li>
 <li>제 2회 컴퓨터학과 프로그래밍 경진대회, 동상(2019.11.11)</li>
-<br/>
  <br/>
  
 <h2>교육</h2>
-<li>LG U+ 유레카 유레카 SW 교육과정 1기 프론트엔드 개발자 과정 (2024.06 ~ 2024.12)</li>
-서울과학기술대학교 컴퓨터공학과 <br/>
-<li>2021.02 ~ 2024.02 (편입, 졸업)</li> <br/>
-동덕여자대학교 컴퓨터학과 <br/>
-<li>2019.03 ~ 2021.02 (중퇴)</li>
+<li>LG U+ 유레카 유레카 SW 교육과정 1기 프론트엔드 개발자 과정 (2024.06 ~ 2024.12)<br/></li>
+<li>서울과학기술대학교 컴퓨터공학과 (2022.02 ~ 2024.02 편입, 졸업) <br/></li>
+<li>동덕여자대학교 컴퓨터학과 (2019.03 ~ 2022.02 중퇴) </li>
 
  <br/><br/>
 </div>
